@@ -1,0 +1,10 @@
+{
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.rulers": [180], // Set this value to your desired line length
+        "editor.wordWrap": "off",
+        "editor.wrappingIndent": "none",
+        "dart.lineLength": 300 // Set this value to your desired line length
+    },
+    
+}
